@@ -6,7 +6,8 @@
 	"pools" : [ ],
 	"classvars" : [ ],
 	"instvars" : [
-		"server"
+		"server",
+		"teapot"
 	],
 	"name" : "RestServer",
 	"type" : "normal"

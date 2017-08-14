@@ -1,11 +1,13 @@
 {
 	"commentStamp" : "",
-	"super" : "Object",
+	"super" : "TestCase",
 	"category" : "RestServerTemplate-tests",
 	"classinstvars" : [ ],
 	"pools" : [ ],
 	"classvars" : [ ],
-	"instvars" : [ ],
-	"name" : "TestServerResponse",
+	"instvars" : [
+		"server"
+	],
+	"name" : "ServerResponseTest",
 	"type" : "normal"
 }
