@@ -17,6 +17,6 @@ server := RestServer serveOn: 8800.
 ```
 
 
-[image:E75293B8-F6E5-45DD-9395-7FDB0D26837A-63550-00016CF6B82C5127/Pharo_image.jpg]
+[image:https://user-images.githubusercontent.com/77505/29289883-34a26c14-810c-11e7-821a-432f79ca87fd.jpg]
 
 Now, All that remains is to fill in the routes and go nuts.
